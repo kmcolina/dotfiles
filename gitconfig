@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = kathymcolina@gmail.com
+	name = katherine colina
